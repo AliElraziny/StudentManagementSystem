@@ -1,4 +1,4 @@
-package com.sms;
+package com.sms.model;
 
 /**
  * Represents a single student and the rules for his status and grade level.

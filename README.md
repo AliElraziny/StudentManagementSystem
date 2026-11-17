@@ -25,3 +25,6 @@ Used to train new team members on the project workflow and Git.
 These files are committed because they have no machine-specific paths.
 `bin/` is not committed (build output).
 
+## Features
+
+1-add students 
